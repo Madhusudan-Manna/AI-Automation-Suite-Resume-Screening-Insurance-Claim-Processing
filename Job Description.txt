@@ -1,0 +1,120 @@
+1. Artificial Intelligence (AI) Engineer – Job Description
+
+Job Title: Artificial Intelligence Engineer
+
+Responsibilities
+Design and develop AI-powered applications and solutions.
+Build and deploy machine learning and deep learning models.
+Develop NLP, computer vision, and generative AI applications.
+Integrate AI models with web and cloud applications.
+Optimize model performance and accuracy.
+Work with large datasets for training and evaluation.
+Collaborate with software developers and data scientists.
+Monitor and maintain AI systems in production.
+Required Skills
+Python
+TensorFlow or PyTorch
+LangChain & LangGraph
+OpenAI API / LLMs
+NLP & Computer Vision
+SQL
+Git & Docker
+AWS, Azure, or GCP
+
+2. Data Scientist – Job Description
+
+Job Title: Data Scientist
+
+Responsibilities
+Collect, clean, and analyze structured and unstructured data.
+Build predictive and statistical models.
+Perform exploratory data analysis (EDA).
+Develop dashboards and reports.
+Create data visualizations.
+Communicate insights to stakeholders.
+Work with data engineering teams to prepare datasets.
+Improve business decisions using analytics.
+Required Skills
+Python
+SQL
+Pandas
+NumPy
+Scikit-learn
+Power BI or Tableau
+Statistics
+Machine Learning
+Data Visualization
+
+3. Machine Learning Engineer – Job Description
+
+Job Title: Machine Learning Engineer
+
+Responsibilities
+Design and implement machine learning models.
+Train, evaluate, and optimize algorithms.
+Build recommendation and prediction systems.
+Develop feature engineering pipelines.
+Deploy ML models into production.
+Monitor model performance.
+Automate ML workflows (MLOps).
+Collaborate with software engineers and data scientists.
+Required Skills
+Python
+Scikit-learn
+TensorFlow
+PyTorch
+MLflow
+Docker
+Kubernetes
+SQL
+Git
+Cloud Platforms (AWS/Azure/GCP)
+
+4. Project Manager – Job Description
+
+Job Title: Project Manager
+
+Responsibilities
+Plan and manage project schedules.
+Coordinate cross-functional teams.
+Define project scope and deliverables.
+Track project progress and budgets.
+Manage project risks and issues.
+Communicate with clients and stakeholders.
+Ensure timely project delivery.
+Prepare project documentation and reports.
+Required Skills
+Agile & Scrum
+Jira
+Microsoft Project
+Risk Management
+Budget Planning
+Leadership
+Communication
+Stakeholder Management
+Problem Solving
+
+5. Design Manager – Job Description
+
+Job Title: Design Manager
+
+Responsibilities
+Lead and mentor the design team.
+Define design strategy and brand guidelines.
+Review UI/UX designs and prototypes.
+Collaborate with product managers and developers.
+Ensure design consistency across products.
+Conduct user research and usability testing.
+Manage design resources and timelines.
+Deliver high-quality user experiences.
+Required Skills
+Figma
+Adobe XD
+Photoshop
+Illustrator
+UI/UX Design
+Wireframing
+Prototyping
+Design Systems
+User Research
+Team Leadership
