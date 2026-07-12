@@ -9,10 +9,11 @@ langgraph
 faiss-cpu
 pypdf
 python-dotenv
-scikit-learn
 streamlit
 faiss-cpu
 pypdf2
 python-dotenv
 openai
 scikit-learn
+scikit-learn==1.5.2
+scikit-learn dependency
