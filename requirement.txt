@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+pyarrow
+langchain
+langchain-community
+langchain-openai
+langgraph
+faiss-cpu
+pypdf
+python-dotenv
+scikit-learn
