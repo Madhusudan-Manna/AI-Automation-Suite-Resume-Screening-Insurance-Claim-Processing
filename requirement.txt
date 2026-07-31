@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+faiss-cpu
+pypdf
+python-dotenv
+scikit-learn
+sentence-transformers
+transformers
+huggingface_hub
+openai
